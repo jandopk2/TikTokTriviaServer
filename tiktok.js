@@ -16,7 +16,7 @@ export function setChatHandler(handler){
 
 
 
-export async function connectTikTok(username){
+export async function connectTikT(username){
 
 
     try{
@@ -24,7 +24,7 @@ export async function connectTikTok(username){
 
         connection =
 new TikTokLiveConnector.WebcastPushConnection(
-    username
+    jandopk2 
 );
 
 
