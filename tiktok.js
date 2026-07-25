@@ -1,4 +1,5 @@
-import TikTokLiveConnector from "tiktok-live-connector";
+import TikTokLiveConnector 
+    from "tiktok-live-connector";
 
 
 let connection = null;
